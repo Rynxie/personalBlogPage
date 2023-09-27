@@ -1,0 +1,20 @@
+[
+   {
+      "id": 0,
+      "thumbnail": "/img/thumbnails/0.png",
+      "title": "Deneme Blog",
+      "author": "Tunahan KAYA",
+      "publishDate": "25.8.2023",
+      "shortDesc": "Deneme Bloguna Hos geldiniz Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a nulla ac justo euismod ornare in vitae orci. Aliquam tincidunt tellus in ex viverra, et feugiat nisl blandit. Vestibulum nibh mi, maximus sed iaculis ut, finibus sed tellus. Aenean consectetur auctor diam, sit amet scelerisque felis elementum ut. Vivamus pellentesque lectus a mollis feugiat. Donec sed odio et ex maximus ullamcorper vel vel massa. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce euismod elit et augue laoreet, non maximus lacus tincidunt. Sed rutrum ullamcorper nisi eget hendrerit. Curabitur rhoncus, ligula sed hendrerit viverra, massa mauris faucibus odio, vitae pulvinar purus enim vel ante. Praesent pulvinar sapien arcu, et tincidunt tortor maximus vel. Ut tristique lacus non turpis convallis ultricies. Nunc a nunc quam.",
+      "content": "/readmarks/0.md"
+   },
+   {
+      "id": 1,
+      "thumbnail": "/img/thumbnails/0.png",
+      "title": "Deneme Blog",
+      "author": "Tunahan KAYA",
+      "publishDate": "25.8.2023",
+      "shortDesc": "Deneme Bloguna Hos geldiniz Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a nulla ac justo euismod ornare in vitae orci. Aliquam tincidunt tellus in ex viverra, et feugiat nisl blandit. Vestibulum nibh mi, maximus sed iaculis ut, finibus sed tellus. Aenean consectetur auctor diam, sit amet scelerisque felis elementum ut. Vivamus pellentesque lectus a mollis feugiat. Donec sed odio et ex maximus ullamcorper vel vel massa. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce euismod elit et augue laoreet, non maximus lacus tincidunt. Sed rutrum ullamcorper nisi eget hendrerit. Curabitur rhoncus, ligula sed hendrerit viverra, massa mauris faucibus odio, vitae pulvinar purus enim vel ante. Praesent pulvinar sapien arcu, et tincidunt tortor maximus vel. Ut tristique lacus non turpis convallis ultricies. Nunc a nunc quam.",
+      "content": "/readmarks/0.md"
+   }
+]
