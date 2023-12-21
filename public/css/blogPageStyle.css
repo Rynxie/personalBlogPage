@@ -1,10 +1,9 @@
-
-body{
-    background-color: #0F173B;
-    color: white;
+*{
+    color: #EBCDCD;
+    font-family: monospace;
 }
-.landing{
-    height: 100vh;
+body{
+    background-color: #141010;
     
 }
 .backToPosts{
@@ -20,20 +19,15 @@ body{
     color: white;
 }
 
-.banner{
-    display: block;
-  
-}
-.banner img{
-    width: 100%;
-    height: auto;
-}
+
 
 .title{
     margin-top: 5vh;
     text-align: center;
-    color: #3679B0;
     
+}
+.title h1{
+    color: #C67171
 }
 
 .meta{
@@ -45,6 +39,7 @@ body{
 .content{
     width: 50%;
     margin-left: 25%;
+    margin-top: 5%;
     text-align: justify;
 }
 md-block pre{
@@ -60,8 +55,15 @@ md-block img{
     padding: 2% 2% 2% 2%;
     
 }
+
 md-block p{
     display: inline;
+}
+md-block a{
+    color: #C67171;
+}
+md-block a:hover{
+    color: #C67171;
 }
 
 .footer{
@@ -73,13 +75,12 @@ md-block p{
 }
 
 .footer a{
-    color: white;
+    color: #EBCDCD;
     text-decoration: none;
 }
+
 @media (max-width: 900px){
-    .landing{
-        height: 50vh;
-    }
+  
     .backToPosts{
         font-size: 100%;
     }

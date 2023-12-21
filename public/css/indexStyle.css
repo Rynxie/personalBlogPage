@@ -1,9 +1,10 @@
 *{
-    color: white;
+    color: #EBCDCD;
+    font-family: monospace;
 }
 body{
-    background-color: #0F173B;
-    color: white;
+    background-color: #141010;
+    
 }
 
 .box{
@@ -40,7 +41,7 @@ body{
     margin-top: 2%;
 }
 .blog .blogTitles h3{
-    color: #3679B0;
+    color: #C67171;
 }
 .box a{
     color: black;
@@ -75,7 +76,7 @@ body{
 }
 
 .footer a{
-    color: white;
+    color: #EBCDCD;
     text-decoration: none;
 }
 @media (max-width: 900px) {
