@@ -14,7 +14,7 @@ Hello! This is my open-source personal Blog page code. It currently operates wit
 - Currently, it lacks dynamic link settings; each blog is linked solely through its _id.
 - There is no SEO configuration I don't know how to. gonna research about it. I would be very happy if someone add it 😁.
 
-This code is still a work in progress. Feel free to use it, and any suggestions for improvements in the main code are greatly appreciated. You can reach out to me via or my email, both of which I'll share below.
+This code is still a work in progress. Feel free to use it, and any suggestions for improvements in the main code are greatly appreciated. You can reach out to me via my email, both of which I'll share below.
 
 My email: business@tunahan.pw
 Live demo of the site: [blog.tunahan.pw](https://blog.tunahan.pw)
