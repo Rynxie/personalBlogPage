@@ -8,7 +8,7 @@ Hello! This is my open-source personal Blog page code. It currently operates wit
 - The integration with MongoDB makes it easy to connect with any panel that utilizes MongoDB as well.
 - It boasts a responsive design (I'll soon add features like a customizable color palette).
 
-## Shortcomings
+## Shortcomings!
 
 - The absence of a built-in panel requires either creating one or utilizing an existing panel.
 - Currently, it lacks dynamic link settings; each blog is linked solely through its _id.
