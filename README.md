@@ -1,6 +1,6 @@
 # Open Source Personal Blog Page Code
 
-Hello! This is my open-source personal Blog page code. It currently operates with Express.js and EJS (I intend to switch it to Jade as soon as possible). At the moment, it lacks an admin panel, so you'll need to manually input blogs and upload them. However, there's a blog model in place that allows you to post new blogs by making minor modifications to the code. Personally, I utilize it with my own admin panel, but unfortunately, I can't share its code due to security concerns. Nevertheless, I aim to make this code open-source, hoping that others might use it in their projects. I'd gladly accept any community contributions, which I can merge into the main branch.
+Hello! This is my open-source personal Blog page code. It currently operates with Express.js and Pug (I finally changed it). At the moment, it lacks an admin panel, so you'll need to manually input blogs and upload them. However, there's a blog model in place that allows you to post new blogs by making minor modifications to the code. Personally, I utilize it with my own admin panel, but unfortunately, I can't share its code due to security concerns. Nevertheless, I aim to make this code open-source, hoping that others might use it in their projects. I'd gladly accept any community contributions, which I can merge into the main branch.
 
 ## Features
 
