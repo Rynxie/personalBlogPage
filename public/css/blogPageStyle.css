@@ -66,18 +66,6 @@ md-block a:hover{
     color: #C67171;
 }
 
-.footer{
-    height: 10vh;
-    padding: 2.5% 25% 2.5% 25%;
-    display: flex;
-    justify-content: space-between;
-    margin-top: 2%;
-}
-
-.footer a{
-    color: #EBCDCD;
-    text-decoration: none;
-}
 
 @media (max-width: 900px){
   

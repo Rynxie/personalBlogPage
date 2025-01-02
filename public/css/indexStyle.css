@@ -24,16 +24,6 @@ body{
     text-align: center;
     
 }
-
-.socials{
-    text-align: center;
-}
-.socials a{
-    color: black;
-}
-.socials a:hover{
-    color: rgb(46, 46, 46);
-}
 .blog{
     text-align: left;
     margin-left: 25%;
@@ -66,18 +56,6 @@ body{
 .blogThumbnail img{
     max-width: 100%;
     height: auto;
-}
-.footer{
-    height: 10vh;
-    padding: 2.5% 25% 2.5% 25%;
-    display: flex;
-    justify-content: space-between;
-    margin-top: 2%;
-}
-
-.footer a{
-    color: #EBCDCD;
-    text-decoration: none;
 }
 @media (max-width: 900px) {
     .box{

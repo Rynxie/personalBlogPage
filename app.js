@@ -17,7 +17,7 @@ app.use(express.static('public'))
 app.use(express.urlencoded({extended: false}))
 app.use(fileUpload())
 app.use(cors())
-app.set("view engine","ejs")
+app.set("view engine","pug")
 app.set("views",path.join(__dirname,"views"))
 
 var dbURL = process.env.MONGODB_CONNECTION_URL

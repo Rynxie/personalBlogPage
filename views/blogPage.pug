@@ -1,0 +1,21 @@
+extends layout
+
+block title
+  title= currentBlog.title
+
+block styles
+  link(rel="stylesheet", href="/css/blogPageStyle.css")
+  script(type="module" src="https://md-block.verou.me/md-block.js")
+
+block content
+  .landing
+    .backToPosts
+      a(href="/")
+        i.fa-solid.fa-circle-left
+    .title
+      h1(style="font-size: 400%;")= currentBlog.title
+    .meta
+      span.author= currentBlog.author
+      span.date= currentBlog.publishDate
+  .content
+    md-block(src=currentBlog.content, no-cors)

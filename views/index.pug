@@ -1,0 +1,35 @@
+extends layout
+
+block title
+  title Welcome to my Blog!
+
+block styles
+  link(rel="stylesheet", href="/css/indexStyle.css")
+
+block content
+  .box
+    .profilePicture
+      img(src="/img/pp.jpg")
+    .mainTitle
+      h1 Tunahan KAYA
+    .socials
+      a(href="https://www.instagram.com/tunahan.pw/")
+        i.fa-brands.fa-instagram
+      a(href="https://github.com/Rynxie")
+        i.fa-brands.fa-github
+      a(href="https://www.linkedin.com/in/tunahankayaakdu/")
+        i.fa-brands.fa-linkedin
+    br
+    each blog in blogs.reverse()
+      .blog
+        a(href=`/blog/${blog.id}`)
+          .blogThumbnail
+            img(src=blog.thumbnail, alt="")
+          br
+          .blogTitles
+            h3= blog.title
+          .meta
+            .blogAuthor= blog.author
+            .blogDate= blog.publishDate
+          .blogDesc
+            p(maxlength="800")= blog.shortDesc

@@ -1,0 +1,32 @@
+.socials{
+    text-align: center;
+}
+.socials a{
+    color: black;
+    padding: 5px;
+}
+.socials a:hover{
+    color: rgb(46, 46, 46);
+}
+.footer{
+    height: 10vh;
+    padding: 2.5% 25% 2.5% 25%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2%;
+}
+
+.footer a{
+    color: #EBCDCD;
+    text-decoration: none;
+}
+
+@media (max-width: 900px) {
+
+    .footer{
+        display: block;
+        align-items: center;
+        text-align: center;
+    }
+
+}
